@@ -4,6 +4,11 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.table-centered {
+    text-align: center;
+    width: 80%;
+}
+
 body {
     overflow-x: hidden;
 }
