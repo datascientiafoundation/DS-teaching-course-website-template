@@ -9,6 +9,11 @@
     width: 80%;
 }
 
+.table-centered th {
+    text-align: center;
+    font-size: large;
+}
+
 body {
     overflow-x: hidden;
 }
